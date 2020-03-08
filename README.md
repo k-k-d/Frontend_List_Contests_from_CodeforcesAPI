@@ -1,3 +1,22 @@
+# About this Project
+
+This project is a single-page web app that fetches data from the Codeforces API and displays it with certain filters. The webpage has been paginated. The goal is to make it feel as responsive and dynamic as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
